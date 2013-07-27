@@ -1,0 +1,9 @@
+{
+	"name": "ShashankSanjay/excelreader",
+	"description": "Layer of classes on top of PHPExcelReader for frequently used functions",
+	"version": "0.0.1-dev",
+	"type": "project",
+	"require-dev": {
+		"phpoffice/phpexcel": "dev-develop_2.0.0"
+	}
+}
